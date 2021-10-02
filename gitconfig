@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jackfn96@gmail.com
+	name = Jack Fraser-Nash
